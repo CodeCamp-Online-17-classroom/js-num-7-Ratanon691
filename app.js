@@ -1,1 +1,3 @@
-// write code here
+function dice() {
+  console.log(Math.floor(Math.random() * 6) + 1)
+}
